@@ -2,6 +2,8 @@
 
 Шипилова Татьяна Павловна (М8О-406Б-22)
 
+РАБОТА ВЫПОЛНЕНА НА ОЦЕНКУ 4
+
 Образ Docker: python:3.13-trixie (Debian)
 
 Запуск: `docker compose up --build`
